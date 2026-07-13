@@ -53,7 +53,7 @@ I work across the entire stack but also have extensive experience on distributed
 ![Solidity](https://img.shields.io/badge/Fireblocks-0A0A0A?style=flat-square&logoColor=white)
 
 ## Currently
-- 🔭 Wrapping up 4 years at ANQ — open to senior IC / founding engineer roles
+- 🔭 Scoping my next challenge — open to senior IC / founding engineer roles
 - 🌱 Open-sourcing tooling from my work (Besu configs, LangChain patterns, MCP servers)
 - 💬 Ask me about React Native at scale, Hyperledger Besu, or production RAG systems
 
