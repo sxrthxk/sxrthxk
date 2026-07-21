@@ -25,7 +25,7 @@ typescript · python · node · react native · next.js · postgres · redis · 
 
 ## elsewhere
 
-- [portfolio](https://sxrthxk.in) — resume lives here
+- [portfolio](https://sxrthxk.in)
 - [linkedin](https://linkedin.com/in/sxrthxk)
 - [medium](https://sarthak-gupta.medium.com)
 - sarthak.ag2001@gmail.com
